@@ -1,0 +1,27 @@
+body {
+  font-family: Calibri;
+  font-size: 12px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+#MainContainer {
+  text-align: center;
+  border: 1px solid black;
+  width: 450px;
+  height: 600px;
+  margin: 0 auto;
+}
+#InnerContainer {
+  display: inline-block;
+  width: 400px;
+  height: inherit;
+}
+p,
+ul {
+  text-align: left;
+  line-height: 14px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
